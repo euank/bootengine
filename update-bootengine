@@ -31,7 +31,6 @@ DRACUT_ARGS=(
     --no-compress
     --omit i18n
     --omit lvm
-    --omit network
     --omit terminfo
     )
 
